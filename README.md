@@ -16,6 +16,7 @@ With improvements in flux, detector efficiency, and reconstruction algorithms, t
 
 ## Learn more at 
 - 4Quant: From Images to Statistics - http://www.4quant.com
+ - DeepZoom images: http://people.ee.ethz.ch/~maderk/dz/tomcat.html
 - Spark Demo from this presentation - https://gist.github.com/kmader/755c2d99c23f4cbe2e74
 - Setting up Spark on a Cluster
  - using Sun Grid Engine - https://github.com/4Quant/sge_spark
